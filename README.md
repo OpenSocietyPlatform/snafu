@@ -6,8 +6,12 @@ Experimental distributed p2p knowledge graph store.
 #### General Terms
     KV, KG, RDF, Triple, Quad, B Tree, B+ Tree, IS, IV, LSM, OLAP, OLTP, Service Discovery, WAL, SLA, [...]  
     
-## 2. Background  
+## 1. INTRODUCTION
+    
+## 2. BACKGROUND
 ### 2.1 System Assumptions and Requirements  
-
-
-
+### 2.2 Service Level Agreements (SLAs)  
+### 2.3 Design Considerations  
+  
+## 3. RELATED WORK  
+### 3.1 Peer to Peer Systems
