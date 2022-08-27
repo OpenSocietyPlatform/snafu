@@ -26,6 +26,8 @@ Experimental distributed p2p knowledge graph store.
 #### 3.1.1 BitTorrent  
 #### 3.1.2 Interplanetary File System (IPFS)
 #### 3.1.3 HyperLedger  
+#### 3.1.4 OrbitDB
+#### 3.1.5 GUN
 ### 3.2 Distributed File Systems and Databases
 #### 3.2.1 Cassandra
 ### 3.Z Discussion  
