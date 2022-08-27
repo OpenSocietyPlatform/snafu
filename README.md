@@ -10,19 +10,19 @@ Experimental distributed p2p knowledge graph store.
 ## 1. INTRODUCTION
     
 ## 2. BACKGROUND
-### 2.1 System Assumptions and Requirements  
-### 2.2 Service Level Agreements (SLAs)  
-### 2.3 Design Considerations  
+ ### 2.1 System Assumptions and Requirements  
+ ### 2.2 Service Level Agreements (SLAs)  
+ ### 2.3 Design Considerations  
   
 ## 3. RELATED WORK  
-### 3.0 Knowledge Graphs (KGs, RDF/Triple/Quad Stores)  
-#### 3.0.1 Akutan
-#### 3.0.2 Cayley
-#### 3.0.3 Apache Jena
-#### 3.0.4 Apache Rya
-#### 3.0.5 3Store/4Store
-#### 3.0.6 gStore
-### 3.1 Peer to Peer Systems  
+ ### 3.0 Knowledge Graphs (KGs, RDF/Triple/Quad Stores)  
+  #### 3.0.1 Akutan
+  #### 3.0.2 Cayley
+  #### 3.0.3 Apache Jena
+  #### 3.0.4 Apache Rya
+  #### 3.0.5 3Store/4Store
+  #### 3.0.6 gStore
+ ### 3.1 Peer to Peer Systems  
 #### 3.1.1 BitTorrent  
 #### 3.1.2 Interplanetary File System (IPFS)
 #### 3.1.3 HyperLedger  
