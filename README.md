@@ -30,6 +30,7 @@ Experimental distributed p2p knowledge graph store.
 #### 3.1.5 GUN
 ### 3.2 Distributed File Systems and Databases
 #### 3.2.1 Cassandra
+#### 3.2.2 Voldemort
 ### 3.Z Discussion  
  
 ## 4. SYSTEM ARCHITECTURE  
