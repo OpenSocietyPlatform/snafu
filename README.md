@@ -15,7 +15,7 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 - https://www.linkedin.com/pulse/designing-key-value-database-btree-divagar-carlmarx/
 - https://www.academia.edu/32392477/Optimized_Data_Indexing_Algorithms_for_OLAP_Systems
 
-### GLOSSARY-FULL [Scoped]  
+### GLOSSARY-FULL [Scoped] <sub>(Needs Editing)</sub>  
 **Bijection**:  
 
 **Blank Node**: Local identifiers for unnamed nodes in RDF graphs that are used in some concrete RDF syntaxes or RDF store implementations. The identifiers for Blank Nodes are not part of the RDF abstract syntax, but are entirely dependent on particular concrete syntax or implementation (such as Turtle, JSON-LD). Unlike IRIs and literals, blank nodes do not identify specific resources. Statements involving blank nodes say that something with the given relationships exists, without explicitly naming it.  
@@ -37,7 +37,6 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 **Entity**:  
 
 **Fact**: (Triple, Statement)  
-<sub>(Needs Editing)</sub>
 
 **Graph**: There can be three kinds of nodes in an RDF graph: IRIs, literals, and blank nodes.  
 
