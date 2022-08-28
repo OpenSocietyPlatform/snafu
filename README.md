@@ -28,6 +28,7 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 **Node**:  
 **Object**:  
 **Predicate**:  
+
     IRIs that can be interpreted as either a relationship between the two nodes or as defining an attribute value (object node) for some subject node.  
 **Prefix**:  
 **Quad**:  
