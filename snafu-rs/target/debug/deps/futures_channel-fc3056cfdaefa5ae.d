@@ -1,0 +1,10 @@
+/Users/sysadmin/git/opensociety/tooling/snafu/OpenSocietyPlatform/snafu/snafu-rs/target/debug/deps/futures_channel-fc3056cfdaefa5ae.rmeta: /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/lib.rs /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/lock.rs /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/mpsc/mod.rs /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/mpsc/queue.rs /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/mpsc/sink_impl.rs /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/oneshot.rs
+
+/Users/sysadmin/git/opensociety/tooling/snafu/OpenSocietyPlatform/snafu/snafu-rs/target/debug/deps/futures_channel-fc3056cfdaefa5ae.d: /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/lib.rs /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/lock.rs /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/mpsc/mod.rs /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/mpsc/queue.rs /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/mpsc/sink_impl.rs /Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/oneshot.rs
+
+/Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/lib.rs:
+/Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/lock.rs:
+/Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/mpsc/mod.rs:
+/Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/mpsc/queue.rs:
+/Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/mpsc/sink_impl.rs:
+/Users/sysadmin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.23/src/oneshot.rs:
