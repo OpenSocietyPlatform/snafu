@@ -54,7 +54,7 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 **Resource**: Anything can be a resource, including physical things, documents, abstract concepts, numbers and strings; the term is synonymous with "entity" as it is used in the RDF Semantics specification [RDF11-MT](https://www.w3.org/TR/rdf11-concepts/#bib-RDF11-MT). It is used in triples (or statements, facts) to form knowledge relationships. A resources is represented in the form of an IRI (or URI).  
 <sub>(Needs Editing)</sub>
 
-**Statement**: Asserting an RDF triple says that some relationship, indicated by the predicate, holds between the resources denoted by the subject and object. This statement corresponding to an RDF triple is known as an RDF statement. The predicate itself is an IRI and denotes a property, that is, a resource that can be thought of as a binary relation. (Relations that involve more than two entities can only be [indirectly expressed in RDF](http://www.w3.org/TR/swbp-n-aryRelations/) [SWBP-N-ARYRELATIONS](https://www.w3.org/TR/rdf11-concepts/#bib-SWBP-N-ARYRELATIONS).)  
+**Statement**: Asserting an RDF triple says that some relationship, indicated by the predicate, holds between the resources denoted by the subject and object. This statement corresponding to an RDF triple is known as an RDF statement. The predicate itself is an IRI and denotes a property, that is, a resource that can be thought of as a binary relation. (Relations that involve more than two entities can only be [indirectly expressed in RDF](http://www.w3.org/TR/swbp-n-aryRelations/) [[SWBP-N-ARYRELATIONS]](https://www.w3.org/TR/rdf11-concepts/#bib-SWBP-N-ARYRELATIONS).)  
 
 **Term**:  
 **TriG**:  
