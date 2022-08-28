@@ -16,12 +16,21 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 - https://www.academia.edu/32392477/Optimized_Data_Indexing_Algorithms_for_OLAP_Systems
 
 ### GLOSSARY
-**Blank Node**:  
+**Blank Node**: Local identifiers for unnamed nodes in RDF graphs that are used in some concrete RDF syntaxes or RDF store implementations. The identifiers for Blank Nodes are not part of the RDF abstract syntax, but are entirely dependent on particular concrete syntax or implementation (such as Turtle, JSON-LD).  
+
+**BNode**: Short for Blank Node.  
+
 **Entity**:  
 
-**IRI**: Namespace name
+**Fact**: (Triple, Statement)  
+<sub>(Needs Editing)</sub>
+
+**IRI**: Namespace name  
+<sub>(Needs Editing)</sub>
 
 **Literal**:  
+<sub>(Needs Editing)</sub>
+
 **N-Triples**:  
 **N-Quads**:  
 **Namespace**:  
@@ -35,7 +44,12 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 **Quad**:  
 **RDF**:  
 **RDFS**:  
-**Resource**:  
+
+
+**Resource**: used in triples (or statements, facts) to form knowledge relationships. A resources is represented in the form of an IRI (or URI).  
+<sub>(Needs Editing)</sub>
+
+**Statement**:  
 **Term**:  
 **TriG**:  
 **Triple**:  
