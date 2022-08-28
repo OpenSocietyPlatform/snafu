@@ -15,7 +15,7 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 - https://www.linkedin.com/pulse/designing-key-value-database-btree-divagar-carlmarx/
 - https://www.academia.edu/32392477/Optimized_Data_Indexing_Algorithms_for_OLAP_Systems
 
-### GLOSSARY
+### [Scoped] GLOSSARY
 **Blank Node**: Local identifiers for unnamed nodes in RDF graphs that are used in some concrete RDF syntaxes or RDF store implementations. The identifiers for Blank Nodes are not part of the RDF abstract syntax, but are entirely dependent on particular concrete syntax or implementation (such as Turtle, JSON-LD).  
 
 **BNode**: Short for Blank Node.  
@@ -24,6 +24,8 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 
 **Fact**: (Triple, Statement)  
 <sub>(Needs Editing)</sub>
+
+**Graph**:  
 
 **IRI**: Namespace name  
 <sub>(Needs Editing)</sub>
