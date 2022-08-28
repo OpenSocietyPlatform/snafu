@@ -18,8 +18,9 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 ### GLOSSARY
 **Blank Node**:  
 **Entity**:  
-**IRI**:  
-    Namespace name
+
+**IRI**: Namespace name
+
 **Literal**:  
 **N-Triples**:  
 **N-Quads**:  
@@ -27,9 +28,9 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 **Namespace Name**:  
 **Node**:  
 **Object**:  
-**Predicate**:  
 
-    IRIs that can be interpreted as either a relationship between the two nodes or as defining an attribute value (object node) for some subject node.  
+**Predicate**: IRIs that can be interpreted as either a relationship between the two nodes or as defining an attribute value (object node) for some subject node.  
+
 **Prefix**:  
 **Quad**:  
 **RDF**:  
