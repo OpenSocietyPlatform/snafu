@@ -16,29 +16,29 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 - https://www.academia.edu/32392477/Optimized_Data_Indexing_Algorithms_for_OLAP_Systems
 
 ### GLOSSARY
-Blank Node:  
-Entity:  
-IRI:  
+**Blank Node**:  
+**Entity**:  
+**IRI**:  
     Namespace name
-Literal:  
-N-Triples:  
-N-Quads:  
-Namespace:  
-Namespace Name:  
-Node:  
-Object:  
-Predicate:  
-    IRIs that can be interpreted as either a relationship between the two nodes or as defining an attribute value (object node) for some subject node.
-Prefix:  
-Quad:  
-RDF:  
-RDFS:  
-Resource:  
-Term:  
-TriG:  
-Triple:  
-TTL:  
-Turtle:  
-Typed Literal:  
-URI:  
-Value:  
+**Literal**:  
+**N-Triples**:  
+**N-Quads**:  
+**Namespace**:  
+**Namespace Name**:  
+**Node**:  
+**Object**:  
+**Predicate**:  
+- IRIs that can be interpreted as either a relationship between the two nodes or as defining an attribute value (object node) for some subject node.
+**Prefix**:  
+**Quad**:  
+**RDF**:  
+**RDFS**:  
+**Resource**:  
+**Term**:  
+**TriG**:  
+**Triple**:  
+**TTL**:  
+**Turtle**:  
+**Typed Literal**:  
+**URI**:  
+**Value**:  
