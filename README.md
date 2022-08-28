@@ -48,6 +48,7 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 **Injection**:  
 
 **IRI**: Internationalized Resource Identifier. Namespace name. An Internationalized Resource Identifier is defined similarly to a URI, but the character set is extended to the Universal Coded Character Set. Therefore, it can contain any Latin and non Latin characters except the reserved characters. Instead of extending the definition of URI, the term IRI was introduced to allow for a clear distinction and avoid incompatibilities. IRIs are meant to replace URIs in identifying resources in situations where the Universal Coded Character Set is supported. By definition, every URI is an IRI. Furthermore, there is a defined surjective mapping of IRIs to URIs: Every IRI can be mapped to exactly one URI, but different IRIs might map to the same URI. Therefore, the conversion back from a URI to an IRI may not produce the original IRI. [[RFC3987]](https://fusion.cs.uni-jena.de/fusion/2016/11/18/iri-uri-url-urn-and-their-differences/#bib-RFC3987)  
+IRI is a superset of URI (IRI ⊃ URI).  
 
 **IRI Normalization**:  
 
@@ -110,13 +111,16 @@ I need to learn, you ass. Additionally, I'm firmly under the impression that not
 **Turtle**:  
 **Typed Literal**:  
 
-**URI**: Uniform Resource Identifier. A Uniform Resource Identifier is a compact sequence of characters that identifies an abstract or physical resource. The set of characters is limited to US-ASCII excluding some reserved characters. Characters outside the set of allowed characters can be represented using [Percent-Encoding](https://tools.ietf.org/html/rfc3986#section-2.1). A URI can be used as a locator, a name, or both. If a URI is a locator, it describes a resource’s primary access mechanism. If a URI is a name, it identifies a resource by giving it a unique name. The exact specifications of syntax and semantics of a URI depend on the used [Scheme](http://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) that is defined by the characters before the first colon. [[RFC3986]](https://fusion.cs.uni-jena.de/fusion/2016/11/18/iri-uri-url-urn-and-their-differences/#bib-RFC3986) 
+**URI**: Uniform Resource Identifier. A Uniform Resource Identifier is a compact sequence of characters that identifies an abstract or physical resource. The set of characters is limited to US-ASCII excluding some reserved characters. Characters outside the set of allowed characters can be represented using [Percent-Encoding](https://tools.ietf.org/html/rfc3986#section-2.1). A URI can be used as a locator, a name, or both. If a URI is a locator, it describes a resource’s primary access mechanism. If a URI is a name, it identifies a resource by giving it a unique name. The exact specifications of syntax and semantics of a URI depend on the used [Scheme](http://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) that is defined by the characters before the first colon. [[RFC3986]](https://fusion.cs.uni-jena.de/fusion/2016/11/18/iri-uri-url-urn-and-their-differences/#bib-RFC3986)  
+URI is a superset of URL (URI ⊃ URL). URI is also a superset of URN (URI ⊃ URN).  
 
 **URIRef**:  
 
 **URL**: Uniform Resource Locator. A Uniform Resource Locator is a URI that, in addition to identifying a resource, provides a means of locating the resource by describing its primary access mechanism [[RFC3986]](https://fusion.cs.uni-jena.de/fusion/2016/11/18/iri-uri-url-urn-and-their-differences/#bib-RFC3986). As there is no exact definition of URL by means of a set of Schemes, URL is a useful but informal concept, usually referring to a subset of URIs that do not contain URNs [[RFC3305]](https://fusion.cs.uni-jena.de/fusion/2016/11/18/iri-uri-url-urn-and-their-differences/#bib-RFC3305).  
+URL and URN are disjoint (URL ∩ URN = ∅).  
 
 **URN**: Uniform Resource Name. A Uniform Resource Name is a URI in the scheme urn intended to serve as persistent, location-independent, resource identifier. Historically, the term also referred to any URI. [[RFC3986]](https://fusion.cs.uni-jena.de/fusion/2016/11/18/iri-uri-url-urn-and-their-differences/#bib-RFC3986) A URN consists of a [Namespace Identifier](http://www.iana.org/assignments/urn-namespaces/urn-namespaces.xhtml) (NID) and a Namespace Specific String (NSS): urn:<NID>:<NSS> The syntax and semantics of the NSS is specific specific for each NID. Beside the registered NIDs, there exist several more NIDs, that did not go through the official registration process. [[RFC2141]](https://fusion.cs.uni-jena.de/fusion/2016/11/18/iri-uri-url-urn-and-their-differences/#bib-RFC2141)  
+URL and URN are disjoint (URL ∩ URN = ∅).  
 
 **Value**:  
 **WAL**:  
