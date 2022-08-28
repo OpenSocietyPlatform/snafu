@@ -39,3 +39,9 @@ const mimeRDFExt_TTL :KV = (
 const mimeRDFExt_TTL :KV = (
     key = ".jsonld", value = "application/ld+json"
 )
+
+const rdfExtensions :List(Text) = (
+    ".ttl", ".n3", ".rdf", ".jsonld"
+)
+
+const validMimeTypeREGEX :Text = "^\w+/\w+$"
