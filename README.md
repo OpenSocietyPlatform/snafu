@@ -1,6 +1,26 @@
 # SNAFU
 Currently: Experimentation. Iteration. Learning.  
 
+## Requirements
+- p2p
+- lightweight
+- easy to use/read codebase.. at least while starting out and maintenance efforts are spread thin
+- ability to test different data structures and algos in beta testing
+- optimized for triples
+- room to add features similar to terminus?
+- uses http-less capnp under the hood 
+
+## DB Alternatives
+- DuckDB
+- rqlite
+- scylladb
+- pebble
+- terminusdb
+- cassandradb
+- orbitdb
+- boltdb
+- 
+
 ## Why Reinvent the Wheel? 
 I need to learn, you ass. Additionally, I'm firmly under the impression that not all of the needs of this platform will be met by any single solution. 
 
